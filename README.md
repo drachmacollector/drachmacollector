@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nakul.png" width="600">
+  <img src="nakul.png" width="full">
 </p>
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=drachmacollector&show_icons=true&theme=tokyonight)
