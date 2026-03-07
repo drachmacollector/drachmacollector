@@ -56,6 +56,7 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 
 ---
 
+
 ## 📊 Contribution Activity 
 
 <p align="center">
@@ -63,14 +64,16 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 </p>
 
 ---
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=drachmacollector&theme=dracula&no-frame=false&no-bg=false&margin-w=2">
+</div>
 
 # 📬 Find Me Here
 
 🌐 **Portfolio:**  
 https://nakul-web.netlify.app  
-
-💼 **LinkedIn:**  
-[![Linkedin Badge](https://img.shields.io/badge/-Nakul_Bhadade-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-bhadade)
 
 ---
 
