@@ -9,7 +9,11 @@
 ---
 
 ## 👨‍💻 A little about me...  
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+<p align="center">
+  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J5NDdheGw2cTRoZHAxcnB4eHplZG11M21sOGUwODJ6ajF5bW4xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ui1hpJSyBDWlG/giphy.gif">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J5NDdheGw2cTRoZHAxcnB4eHplZG11M21sOGUwODJ6ajF5bW4xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ui1hpJSyBDWlG/giphy.gif" width="250">
+  </a>
+</p>
 
 I'm a **Sophomore at IIIT Nagpur** pursuing **Computer Science & Engineering with a specialization in Artificial Intelligence & Machine Learning**.
 
@@ -36,15 +40,23 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=drachmacollector&show_icons=true&theme=radical" />
-</p>
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drachmacollector&show_icons=true&theme=radical" />
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drachmacollector&theme=radical">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drachmacollector&theme=radical" />
+
+<img height="170em" src="https://nirzak-streak-stats.vercel.app?user=drachmacollector&theme=radical" />
+
+</div>
 
 ---
 
-# 📈 Contribution Activity
+## 📊 Contribution Activity 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=drachmacollector&theme=tokyo-night" />
