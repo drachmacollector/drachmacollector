@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/nakul.png" width="600">
+</p>
+
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=drachmacollector&show_icons=true&theme=tokyonight)
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
