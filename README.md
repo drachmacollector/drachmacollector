@@ -2,9 +2,8 @@
   <img src="nakul.png" width="full">
 </p>
 
-![Nakul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=drachmacollector&show_icons=true&theme=tokyonight)
+![Nakul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=drachmacollector&show_icons=true&theme=radical)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/drachmacollector?cardType=github&theme=radical&fontFamily=Cascadia%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drachmacollector&theme=tokyo-night)
 
