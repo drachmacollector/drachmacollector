@@ -99,11 +99,6 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 </p>
 
 ---
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=drachmacollector&theme=dracula&no-frame=false&no-bg=false&margin-w=2">
-</div>
 
 # 📬 Find Me Here
 
