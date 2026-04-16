@@ -23,6 +23,22 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drachmacollector&show_icons=true&theme=radical" />
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drachmacollector&theme=radical">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drachmacollector&theme=radical" />
+
+<img height="170em" src="https://nirzak-streak-stats.vercel.app?user=drachmacollector&theme=radical" />
+
+</div>
+
+---
+
 # 🛠 Tech Stack
 
 ### Languages
@@ -73,22 +89,6 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drachmacollector&show_icons=true&theme=radical" />
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drachmacollector&theme=radical">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drachmacollector&theme=radical" />
-
-<img height="170em" src="https://nirzak-streak-stats.vercel.app?user=drachmacollector&theme=radical" />
-
-</div>
-
 ---
 
 
