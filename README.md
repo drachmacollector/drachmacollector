@@ -59,17 +59,9 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Cloud & Deployment
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=flat&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -82,13 +74,6 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-### Dev Tools
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ---
 
 
