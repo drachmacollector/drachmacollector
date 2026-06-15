@@ -85,9 +85,7 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 
 ---
 
-# 📬 Find Me Here
-
-🌐 **Portfolio:**  
+# 📬 My Portfolio 🌐
 https://nakul-web.netlify.app  
 
 ---
