@@ -75,14 +75,6 @@ In my spare time I'm also an avid **3D artist** and enjoy creating **3D animatio
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ---
-
-
-## 📊 Contribution Activity 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drachmacollector&theme=tokyo-night" />
-</p>
-
 ---
 
 # 📬 My Portfolio 🌐
